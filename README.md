@@ -1,4 +1,4 @@
-# Student Information Management System
+# Institute Management System
 
 ## Everyday is a learning day !
 
